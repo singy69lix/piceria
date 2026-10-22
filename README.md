@@ -1,2 +1,0 @@
-# piceria
-projekt
